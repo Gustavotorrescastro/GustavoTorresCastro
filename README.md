@@ -4,11 +4,11 @@
 
 I am a first-semester Computer Science student and I have already developed some skills in this short period of time.
 
-* 📖 Studying Python, JavaScript, Arduino, HTML, and CSS.
+*Studying Python, JavaScript, Arduino, HTML, and CSS.
 
-*  Interested in accessibility projects and game development.
+*Interested in accessibility projects and game development.
 
-*  Currently exploring the C language.
+*Currently exploring the C language.
 
 ---
 
