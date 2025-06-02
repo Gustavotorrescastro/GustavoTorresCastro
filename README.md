@@ -19,7 +19,7 @@ Here are some of the projects and achievements I'm proud of:
 * Proficiency in Python, applying knowledge to complete systems with data persistence.
 
   
-* Development of a Python system with menus for managing animals, events, goals, shopping lists, and care suggestions.
+  * Development of a Python system with menus for managing animals, events, goals, shopping lists, and care suggestions.
 
     * [[CRUD Animais](https://github.com/BrunoAU/CRUD_animais)]
 
