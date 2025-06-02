@@ -21,8 +21,8 @@ Here are some of the projects and achievements I'm proud of:
     * [[CRUD Animais](https://github.com/BrunoAU/CRUD_animais)]
   
 * Leader of the "Recife de Memórias" project, a project focused on accessibility and short-term and long-term memory consolidation in elderly people with dementia.
-    * [[Recife de Memórias Website](https://sites.google.com/cesar.school/g9-site/in%C3%ADcio)]
-    * [[Recife de Memórias GitHub](https://github.com/LHFalcao/Recife_de_Memorias/blob/main)]
+   * [[Recife de Memórias Website](https://sites.google.com/cesar.school/g9-site/in%C3%ADcio)]
+   * [[Recife de Memórias GitHub](https://github.com/LHFalcao/Recife_de_Memorias/blob/main)]
     
 ---
 
