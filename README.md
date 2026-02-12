@@ -4,9 +4,9 @@
 
 I am a second-year Computer Science student and I have already developed some skills in this short period of time.
 
-* Studying Python, C, , Java, JavaScript, Arduino, HTML, and CSS.
+* Solid foundation in **Python, C, and JavaScript**, with strong proficiency in **web technologies including HTML and CSS**.
 
-* Currently exploring the Java language.
+* Currently exploring the **Java** language.
 
 ---
 
